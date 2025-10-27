@@ -9,7 +9,7 @@ env/
 ENV/
 
 # Chroma DB
-chroma_db/
+#chroma_db/
 
 # Environment variables
 .env
