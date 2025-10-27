@@ -2,9 +2,17 @@
 
 AI chatbot for analyzing UN-Habitat QOLI sprint reports using Amazon Bedrock.
 
+<div align="center">
+<img src="public/screenshot-homepage.png" height="50%" width="50%" alt="Homepage" />
+</div>
+
 ## What it does
 
 Semantic search across sprint reports using RAG (Retrieval Augmented Generation). Ask questions about the project, team responsibilities, or get summaries of specific reports.
+
+<div align="center">
+<img src="public/screenshot-rag-query.png" height="50%" width="50%" alt="Rag Query" />
+</div>
 
 ## Tech Stack
 
@@ -12,6 +20,10 @@ Semantic search across sprint reports using RAG (Retrieval Augmented Generation)
 - **ChromaDB** - Vector database for semantic search
 - **Streamlit** - Web interface
 - **Python 3.11+**
+
+<div align="center">
+<img src="public/screenshot-summary.png" height="50%" width="50%" alt="Summary" />
+</div>
 
 ## Setup
 
